@@ -1,0 +1,16 @@
+C:\Projeto\PetShopp\obj\Debug\PetShopp.csproj.AssemblyReference.cache
+C:\Projeto\PetShopp\obj\Debug\PetShopp.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\PetShopp\obj\Debug\PetShop.Form1.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.Properties.Resources.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.csproj.GenerateResource.cache
+C:\Projeto\PetShopp\obj\Debug\PetShopp.csproj.CoreCompileInputs.cache
+C:\Projeto\PetShopp\bin\Debug\PetShopp.exe.config
+C:\Projeto\PetShopp\bin\Debug\PetShopp.exe
+C:\Projeto\PetShopp\bin\Debug\PetShopp.pdb
+C:\Projeto\PetShopp\obj\Debug\PetShopp.exe
+C:\Projeto\PetShopp\obj\Debug\PetShopp.pdb
+C:\Projeto\PetShopp\obj\Debug\PetShopp.fmCadCliente.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.fmCadAnimal.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.fmCadRaca.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.fmCadServico.resources
+C:\Projeto\PetShopp\obj\Debug\PetShopp.fmAgendamento.resources
